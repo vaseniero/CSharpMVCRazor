@@ -6,7 +6,6 @@ Features
 - C# 7
 - ASP.Net MVC 5
 - Razor
-- No Authentication
 - dotNet Framework 4.6.1
 - SOLID design principle
 - Dependency Injection and Controllers
