@@ -7,8 +7,4 @@ Features
 =========
 - SOLID design principle
 - Dependency Injection and Controllers
-  * Dependency Injection
-  * Constructor Injection
-  * Action Injection with FromServices
-  * Accessing Settings from a Controller
   
