@@ -9,4 +9,4 @@ Features
 - .Net Framework 4.6.1
 - SOLID design principle
 - Dependency Injection and Controllers
-  
+- Using Visual Studio 2017 Community Edition
